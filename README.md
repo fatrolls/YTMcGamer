@@ -17,8 +17,9 @@
   <a href="https://github.com/YTMcGamer?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTMcGamer&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" />
 </a>
+  <p algin="center">
+  <h3>Profile Visits</h3>
+  <img src="https://profile-counter.glitch.me/ytmcgamer/count.svg" />
+  </p>
 </a>
 <br>
-
-
-ytmcgamer
